@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 if __name__ == "__main__":
     """
         Imports functions from a module, does some Maths.
