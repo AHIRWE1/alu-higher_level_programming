@@ -1,1 +1,1 @@
-# alu-higher_level_programming
+This repo is about python and data bases
